@@ -1,0 +1,14 @@
+let a = 10;
+document.writeln(a);
+document.writeln('<br>');
+let b = 0b1010000001;
+document.writeln(b);
+document.writeln('<br>');
+let c = 0XFFFF;
+document.writeln(c);
+document.writeln('<br>');
+let d = 10.105;
+document.writeln(d);
+document.writeln('<br>');
+let e = 0o10;
+document.writeln(e);
